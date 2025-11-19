@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.af9f501b.css",
+    "main.js": "/portfolio-react/static/js/main.af685765.js",
+    "static/js/453.32bc6663.chunk.js": "/portfolio-react/static/js/453.32bc6663.chunk.js",
+    "static/media/wenshao-hero.png": "/portfolio-react/static/media/wenshao-hero.c96320f896067b1d5eb5.png",
+    "static/media/weblogo.png": "/portfolio-react/static/media/weblogo.a16efda16ec0e0210920.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.af9f501b.css.map": "/portfolio-react/static/css/main.af9f501b.css.map",
+    "main.af685765.js.map": "/portfolio-react/static/js/main.af685765.js.map",
+    "453.32bc6663.chunk.js.map": "/portfolio-react/static/js/453.32bc6663.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9f501b.css",
+    "static/js/main.af685765.js"
+  ]
+}
